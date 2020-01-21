@@ -1,5 +1,3 @@
-# file
-
 ![file/reactnative.png](file/reactnative.png)
 
 # React Native - Mobile Apps Zomato Restaurant
@@ -70,4 +68,4 @@
 
 ### Install APK yang sudah release:
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Download Link](https://github.com/andika-andriana/React-Native---Mobile-App-Restoran-Dengan-Open-API-Zomato/blob/master/file/app-release.apk)
